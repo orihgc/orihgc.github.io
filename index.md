@@ -20,7 +20,6 @@
         <thead>
         <tr>
             <th>资源名称</th>
-            <th>资源链接</th>
             <th>提取码</th>
         </tr>
         </thead>
