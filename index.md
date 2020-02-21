@@ -19,7 +19,7 @@
         <caption style="text-align: center"><h1>资源列表</h1></caption>
         <thead>
         <tr>
-            <th>资源名称</th>
+            <th>资源名称</th> 
             <th>提取码</th>
         </tr>
         </thead>
@@ -41,8 +41,8 @@
             <td>y6td</td>
         </tr>
         <tr>
-            <td><a href="https://pan.baidu.com/s/1oKbCOQFHNEza-TdZSFGhHQ" target="_blank">麻酥酥哟合集【15g】</a></td>
-            <td>mlzh</td>
+            <td><a href="https://pan.baidu.com/s/1mzjJ71lJFJkdgho9KVzDEw" target="_blank">麻酥酥哟合集【12.5g】</a></td>
+            <td>zix5</td>
         </tr>
         <tr>
             <td><a href="https://pan.baidu.com/s/192TcoOzuMgLzc2ajBPGRbQ" target="_blank">我是你可爱的小猫合集【8g】</a></td>
@@ -61,8 +61,8 @@
             <td>46tj</td>
         </tr>
         <tr>
-            <td><a href="https://pan.baidu.com/s/16m--W7jeF6ecxDMCBsYe1g" target="_blank">韩国女主播合集【392g】</a></td>
-            <td>8z4g</td>
+            <td><a href="https://pan.baidu.com/s/1ja6XS96TvuI2LnLJsVY0sQ" target="_blank">韩国女主播合集【392g】</a></td>
+            <td>5b41</td>
         </tr>
 
         </tbody>
