@@ -60,6 +60,10 @@
             <td><a href="https://pan.baidu.com/s/1ja6XS96TvuI2LnLJsVY0sQ" target="_blank">韩国女主播合集【392g】</a></td>
             <td>5b41</td>
         </tr>
+         <tr>
+            <td><a href="https://pan.baidu.com/s/18mRLhDvDX_ny8hkufo25rg" target="_blank">虎牙主播古阿扎泄露视频</a></td>
+            <td>qct7</td>
+        </tr>
 
         </tbody>
     </table>
