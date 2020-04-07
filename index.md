@@ -25,8 +25,8 @@
         </thead>
         <tbody>
         <tr>
-            <td><a href="https://pan.baidu.com/s/1jdz1TqoKQYbCxdGuxM-eEg" target="_blank">重磅推荐:91秦先生【21g】</a></td>
-            <td>4ozs</td>
+            <td><a href="https://pan.baidu.com/s/18LLvx0VzKOc0KFet6Az5Uw" target="_blank">重磅推荐:91秦先生【21g】</a></td>
+            <td>x4di</td>
         </tr>
         <tr>
             <td><a href="https://pan.baidu.com/s/1I_ntLsPw9Q0UxrByzkkpQg" target="_blank">私人玩物111套合集【80g】</a></td>
