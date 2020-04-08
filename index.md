@@ -25,9 +25,13 @@
         </thead>
         <tbody>
         <tr>
-            <td><a href="https://pan.baidu.com/s/1oblGUrAgh4p7MBGg92ZBcw" target="_blank">重磅推荐:国产AV可预览【28g】</a></td>
+            <td><a href="https://pan.baidu.com/s/1oblGUrAgh4p7MBGg92ZBcw" target="_blank">重磅推荐:国产AV麻豆可预览【28g】</a></td>
             <td>p2m4</td>
-        </tr>      
+        </tr>
+        <tr>
+            <td><a href="https://pan.baidu.com/s/15xBzWKOjUhShC_P7U3S7BA" target="_blank">狐狸社【53g】</a></td>
+            <td>pm56</td>
+        </tr>
         <tr>
             <td><a href="https://pan.baidu.com/s/18LLvx0VzKOc0KFet6Az5Uw" target="_blank">91秦先生【21g】</a></td>
             <td>x4di</td>
